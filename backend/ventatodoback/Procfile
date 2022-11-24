@@ -1,0 +1,1 @@
+web: gunicorn ventatodoback.wsgi --log-file -

@@ -1,0 +1,12 @@
+
+.div-background {
+    /*background-color: rgb(80, 93, 94);*/
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+    background-size: cover;
+}
+
+.div-container-back {
+    background-color: #878f99;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
